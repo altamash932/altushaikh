@@ -1,4 +1,4 @@
-![logo](https://github.com/altamash932/altamash932/blob/main/background.jpg)
+![logo](https://github.com/altamash932/altushaikh/blob/main/background.jpg)
 <h1 align="center">Hi 👋, I'm Altamash Husain</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
